@@ -18,15 +18,17 @@
 
 # Objetivos
 
-- Praticar desenvolvimento Mobile First.
-- Aprender sobre responsividade e layout.
+- Colocar em prática conhecimentos adquirido no Bootcamp Take Blip, sobre HTML5, CSS3 e Javascript
+- Utilização do framework Jquery, assim como recursos de sounds.
 
 # Tecnologias
 
 - HTML5
 - CSS3
 - JAVASCRIPT
+- Framework JQUERY
 
 # Autor
 
 - Desafio DIO Take Blip by Milena Carvalho.
+ 
